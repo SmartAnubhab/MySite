@@ -1,13 +1,18 @@
 body{
   background-color: yellow;
-  text-align: center;
+  text-align: center; 
   table-layout: fixed;
   text-decoration-color: blue;
+  table-layout: 100%;
+  color: black;
+  text-shadow: blue;
+  table-layout: center;
 }
 hr{
-  border: 10px solid green;
+  border: 5px solid green;
   width: 10%;
   border-radius: 5px;
+
 }
 h3{
   color: skyblue;
