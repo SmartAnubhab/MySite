@@ -1,0 +1,8 @@
+body{
+  background-color: yellow;
+}
+hr{
+  border: 10px solid green;
+  width: 10%;
+  border-radius: 5px;
+}
