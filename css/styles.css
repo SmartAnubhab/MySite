@@ -1,1 +1,12 @@
-
+body{
+    background-color: #87CEFA;
+  }
+hr{
+    color: #F5FFFA;
+    border-style: dotted none none;
+    border-width: thick;
+    height: 0px;
+    border-width: 8px;
+    width: 9%;
+  }
+}
