@@ -1,12 +1,13 @@
 body{
-    background-color: #87CEFA;
+    background-color: #F5FFFA;
   }
 hr{
-    color: #F5FFFA;
+    color: #87CEFA;
     border-style: dotted none none;
     border-width: thick;
     height: 0px;
     border-width: 8px;
     width: 9%;
   }
+
 }
